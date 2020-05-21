@@ -1,0 +1,26 @@
+{
+  "name": "npm-demo-riya-varghese",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/npm-demo-riya-varghese.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/npm-demo-riya-varghese/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/npm-demo-riya-varghese#readme",
+  "dependencies": {
+    "aos": "^2.3.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "description": ""
+}
